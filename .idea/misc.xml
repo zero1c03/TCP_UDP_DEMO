@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/app/src/main/res/layout/activity_main.xml" value="0.27708333333333335" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/app/src/main/res/layout/activity_tcp.xml" value="0.23097826086956522" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/app/src/main/res/layout/activity_udp.xml" value="0.23097826086956522" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/tcp_demo/src/main/res/layout/activity_tcp.xml" value="0.1546875" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/tcp_demo/src/main/res/layout/activity_tcpactivity.xml" value="0.15260416666666668" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/upd_demo/src/main/res/layout/activity_main.xml" value="0.15260416666666668" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/upd_demo/src/main/res/layout/activity_tcp.xml" value="0.15260416666666668" />
+        <entry key="..\:/Code/Git/TCP_UDP_DEMO/upd_demo/src/main/res/layout/activity_udp.xml" value="0.1546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

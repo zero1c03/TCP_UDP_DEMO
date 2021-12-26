@@ -1,0 +1,3 @@
+rootProject.name = "TCP_UDP_DEMO"
+include ':upd_demo'
+include ':tcp_demo'
